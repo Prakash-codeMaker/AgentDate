@@ -1,0 +1,577 @@
+[
+  {
+    "id": 1,
+    "name": "Pratik Takle",
+    "city": "Pune",
+    "role": "Web engineer · creator",
+    "interests": [
+      "technology",
+      "web development",
+      "teaching",
+      "automation"
+    ],
+    "traits": [
+      "builder",
+      "curious",
+      "social",
+      "learning"
+    ],
+    "linkedin": "https://in.linkedin.com/in/pratik-takle-developer-creator-6443a2107",
+    "instagram": "https://instagram.com/aho.takle",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 2,
+    "name": "Devisha Gupta",
+    "city": "Kanpur",
+    "role": "Product designer · Dell",
+    "interests": [
+      "product design",
+      "UX",
+      "visual art",
+      "design systems"
+    ],
+    "traits": [
+      "creative",
+      "thoughtful",
+      "collaborative",
+      "visual"
+    ],
+    "linkedin": "https://in.linkedin.com/in/devisha-gupta",
+    "instagram": "https://www.instagram.com/guptadevisha/",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 3,
+    "name": "Arvind Kumar S",
+    "city": "Chennai",
+    "role": "Product designer · Zoho",
+    "interests": [
+      "product design",
+      "visual design",
+      "typography",
+      "branding"
+    ],
+    "traits": [
+      "creative",
+      "detail-oriented",
+      "curious",
+      "calm"
+    ],
+    "linkedin": "https://in.linkedin.com/in/arvind-kumar-s-a8a11a64",
+    "instagram": "https://www.instagram.com/shiva_arvindkumar/",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 4,
+    "name": "Ayush Kalra",
+    "city": "Delhi",
+    "role": "Illustrator · Disney+ Hotstar",
+    "interests": [
+      "illustration",
+      "art",
+      "visual storytelling",
+      "film"
+    ],
+    "traits": [
+      "creative",
+      "expressive",
+      "playful",
+      "visual"
+    ],
+    "linkedin": "https://in.linkedin.com/in/ayushkalra27",
+    "instagram": "https://instagram.com/ayushkalra",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 5,
+    "name": "Anuj Gupta",
+    "city": "Mumbai",
+    "role": "Creator · Instagram",
+    "interests": [
+      "creator economy",
+      "memes",
+      "short-form video",
+      "internet culture"
+    ],
+    "traits": [
+      "funny",
+      "social",
+      "playful",
+      "creative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/anuj-gupta-59160515",
+    "instagram": "https://instagram.com/anuj.mp4",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 6,
+    "name": "Rathod Rahul",
+    "city": "Hyderabad",
+    "role": "Content creator · agency founder",
+    "interests": [
+      "AI agents",
+      "automation",
+      "business",
+      "content"
+    ],
+    "traits": [
+      "builder",
+      "ambitious",
+      "curious",
+      "social"
+    ],
+    "linkedin": "https://in.linkedin.com/in/rathod-rahul-63ab542b0",
+    "instagram": "https://instagram.com/rathodrahul",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 7,
+    "name": "Siddharth Shukla",
+    "city": "Mumbai",
+    "role": "Content producer · anchor",
+    "interests": [
+      "media",
+      "anchoring",
+      "writing",
+      "copywriting"
+    ],
+    "traits": [
+      "expressive",
+      "social",
+      "communicative",
+      "creative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/siddharthshukla8",
+    "instagram": "https://www.instagram.com/sid_art8/",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 8,
+    "name": "Pankaj Kumar",
+    "city": "Patna",
+    "role": "Content & UGC creator",
+    "interests": [
+      "short-form video",
+      "brand marketing",
+      "UGC",
+      "growth"
+    ],
+    "traits": [
+      "social",
+      "creative",
+      "ambitious",
+      "energetic"
+    ],
+    "linkedin": "https://in.linkedin.com/in/pankaj-kumar-1a3236235",
+    "instagram": "https://www.instagram.com/pankajgupta_offical/",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 9,
+    "name": "Vandita Arora",
+    "city": "Bengaluru",
+    "role": "Product designer · builder",
+    "interests": [
+      "AI",
+      "product design",
+      "running",
+      "community"
+    ],
+    "traits": [
+      "builder",
+      "active",
+      "independent",
+      "curious"
+    ],
+    "linkedin": "https://in.linkedin.com/in/vandita-arora-product-designer",
+    "instagram": "https://instagram.com/vanditaarora",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 10,
+    "name": "Tushar Jain",
+    "city": "Udaipur",
+    "role": "CTO · co-founder",
+    "interests": [
+      "technology",
+      "creator economy",
+      "startups",
+      "product"
+    ],
+    "traits": [
+      "builder",
+      "ambitious",
+      "systems",
+      "collaborative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/betushar",
+    "instagram": "https://instagram.com/tusharjain",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 11,
+    "name": "Rishika Jain",
+    "city": "Bengaluru",
+    "role": "Interaction designer",
+    "interests": [
+      "design research",
+      "interaction design",
+      "prototyping",
+      "systems"
+    ],
+    "traits": [
+      "thoughtful",
+      "creative",
+      "curious",
+      "collaborative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/rishikajaindesign",
+    "instagram": "https://instagram.com/rishikajain",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 12,
+    "name": "Nikita Maheshwari",
+    "city": "Jaipur",
+    "role": "Product designer",
+    "interests": [
+      "UI/UX",
+      "product design",
+      "Framer",
+      "visual design"
+    ],
+    "traits": [
+      "creative",
+      "detail-oriented",
+      "practical",
+      "curious"
+    ],
+    "linkedin": "https://in.linkedin.com/in/nikita-mh",
+    "instagram": "https://instagram.com/nikitamaheshwari",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 13,
+    "name": "Ahilya Rajani",
+    "city": "Mumbai",
+    "role": "Content creator",
+    "interests": [
+      "food",
+      "lifestyle",
+      "wellness",
+      "video"
+    ],
+    "traits": [
+      "social",
+      "creative",
+      "energetic",
+      "organized"
+    ],
+    "linkedin": "https://in.linkedin.com/in/ahilya-rajani-49a94b9b",
+    "instagram": "https://instagram.com/ahilyarajani",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 14,
+    "name": "Disha Mittal",
+    "city": "Pune",
+    "role": "Product designer · founder",
+    "interests": [
+      "product design",
+      "D2C",
+      "industrial design",
+      "building"
+    ],
+    "traits": [
+      "creative",
+      "builder",
+      "aesthetic",
+      "ambitious"
+    ],
+    "linkedin": "https://in.linkedin.com/in/dishamittal-143253280",
+    "instagram": "https://instagram.com/dishamittal",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 15,
+    "name": "Alok K",
+    "city": "Pune",
+    "role": "Product designer",
+    "interests": [
+      "engineering",
+      "product design",
+      "creative problem solving",
+      "UX"
+    ],
+    "traits": [
+      "analytical",
+      "creative",
+      "curious",
+      "builder"
+    ],
+    "linkedin": "https://in.linkedin.com/in/designedbyalok",
+    "instagram": "https://instagram.com/designedbyalok",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 16,
+    "name": "Shubham Narute",
+    "city": "Kolhapur",
+    "role": "Content creator",
+    "interests": [
+      "Instagram",
+      "content",
+      "Android",
+      "data analytics"
+    ],
+    "traits": [
+      "social",
+      "learning",
+      "creative",
+      "tech"
+    ],
+    "linkedin": "https://in.linkedin.com/in/shubham-narute-19a546289",
+    "instagram": "https://instagram.com/shubhamnarute",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 17,
+    "name": "Samvit Kallyanpur",
+    "city": "Mumbai",
+    "role": "AI creator",
+    "interests": [
+      "AI",
+      "photography",
+      "creator education",
+      "short-form"
+    ],
+    "traits": [
+      "creative",
+      "educator",
+      "curious",
+      "social"
+    ],
+    "linkedin": "https://in.linkedin.com/in/samvitphotography",
+    "instagram": "https://instagram.com/hellosamvit",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 18,
+    "name": "Kshitij Kapoor",
+    "city": "Mumbai",
+    "role": "Creator economy operator",
+    "interests": [
+      "creator economy",
+      "marketing",
+      "startups",
+      "community"
+    ],
+    "traits": [
+      "social",
+      "strategic",
+      "ambitious",
+      "collaborative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/itskshitijkapoor",
+    "instagram": "https://instagram.com/kshitijkapoor",
+    "connectionStyle": "connector",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 19,
+    "name": "Saurabh More",
+    "city": "Mumbai",
+    "role": "Founder · digital agency",
+    "interests": [
+      "influencer marketing",
+      "animation",
+      "brands",
+      "gaming"
+    ],
+    "traits": [
+      "strategic",
+      "creative",
+      "social",
+      "builder"
+    ],
+    "linkedin": "https://in.linkedin.com/in/saurabh-more-510a441b5",
+    "instagram": "https://instagram.com/saurabhmore",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 20,
+    "name": "Shardul Deshpande",
+    "city": "Pune",
+    "role": "Digital marketing educator",
+    "interests": [
+      "Instagram marketing",
+      "content strategy",
+      "digital marketing",
+      "teaching"
+    ],
+    "traits": [
+      "educator",
+      "social",
+      "ambitious",
+      "communicative"
+    ],
+    "linkedin": "https://in.linkedin.com/in/shardul-deshpande-16700024",
+    "instagram": "https://instagram.com/sharduldeshpande",
+    "connectionStyle": "connector",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 21,
+    "name": "Khushi Nahar",
+    "city": "Pune",
+    "role": "Freelance creator",
+    "interests": [
+      "content creation",
+      "Instagram",
+      "lifestyle",
+      "running"
+    ],
+    "traits": [
+      "social",
+      "active",
+      "creative",
+      "open"
+    ],
+    "linkedin": "https://in.linkedin.com/in/khushi-nahar",
+    "instagram": "https://instagram.com/khushinahar",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 22,
+    "name": "Manisha R",
+    "city": "Mumbai",
+    "role": "Storyteller · content strategist",
+    "interests": [
+      "storytelling",
+      "writing",
+      "football",
+      "cricket"
+    ],
+    "traits": [
+      "empathetic",
+      "creative",
+      "social",
+      "curious"
+    ],
+    "linkedin": "https://in.linkedin.com/in/manisharamsisaria",
+    "instagram": "https://instagram.com/manisharamsisaria",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 23,
+    "name": "Ichha Munshi",
+    "city": "Mumbai",
+    "role": "Content creator · history",
+    "interests": [
+      "history",
+      "women's studies",
+      "aesthetics",
+      "visual content"
+    ],
+    "traits": [
+      "thoughtful",
+      "creative",
+      "curious",
+      "social"
+    ],
+    "linkedin": "https://in.linkedin.com/in/ichha-munshi",
+    "instagram": "https://instagram.com/ichhamunshi",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 24,
+    "name": "Prakruti Panchal",
+    "city": "Thane",
+    "role": "Full-time content creator",
+    "interests": [
+      "Instagram",
+      "Facebook",
+      "YouTube",
+      "video"
+    ],
+    "traits": [
+      "social",
+      "creative",
+      "energetic",
+      "ambitious"
+    ],
+    "linkedin": "https://in.linkedin.com/in/prakruti-panchal-48a5302aa",
+    "instagram": "https://instagram.com/prakrutipanchal",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  },
+  {
+    "id": 25,
+    "name": "Shubham Mahajan",
+    "city": "Pune",
+    "role": "Creative lead · GlobalBees",
+    "interests": [
+      "video",
+      "Premiere Pro",
+      "After Effects",
+      "brands"
+    ],
+    "traits": [
+      "creative",
+      "visual",
+      "collaborative",
+      "builder"
+    ],
+    "linkedin": "https://in.linkedin.com/in/shubham-mahajan-b874a3148",
+    "instagram": "https://instagram.com/shubhiedo",
+    "connectionStyle": "maker",
+    "verifiedSources": 2,
+    "custom": false
+  }
+]
